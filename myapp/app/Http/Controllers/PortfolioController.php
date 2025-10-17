@@ -16,17 +16,17 @@ class PortfolioController extends Controller
 
         $portfolio = [
 
-            'name' => 'Jashzel Yap',
+            'name' => 'Jesver Kim Loyola',
 
-            'title' => 'Animator and a Programmer',
+            'title' => 'Animator Coding',
 
-            'email' => 'jashzel@gmail.com',
+            'email' => 'Jesverkiml@gmail.com',
 
             'phone' => '+639074562134',
 
             'location' => 'PH, Manila',
 
-            'bio' => 'A cool guy that likes to play games and animate stuff and do vibe coding for fun.',
+            'bio' => ' im simple guy play games and animate stuff and do vibe coding for fun and i willing to learn.',
 
             'profile_image' => 'https://via.placeholder.com/300x300?text=Your+Photo',
 
